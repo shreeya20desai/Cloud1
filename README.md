@@ -14,20 +14,14 @@
 
 1. When a budget alert is triggered how will one know?
 
----
-
 - When a budget alert is triggered, one will be notified by the email address that was provided when creating the alert.
 
 2. What is a Azure Monitor?
-
----
 
 - Azure Monitor is a solution that's been used for analysing, collecting, and responding to monitored data from the cloud and on-premise environments.
 - In simple words, it helps to understand how the application is performing and allows one to manually and programmatically respond to the events.
 
 3. What is a Azure Cost Management + billing?
-
----
 
 -The main purpose of the Azure Cost Management + billing is to track, monitor and control the spending of the cloud.
 
