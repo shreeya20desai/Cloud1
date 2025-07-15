@@ -1,12 +1,16 @@
-**Project 1: Create Three Billing Alarms.**
-**Description**: This project involves creating three Azure billing alarms to monitor the subscription cost.
-**Service Used**: Azure Cost Management + Billing, Azure Monitor.
-**Objective**:
-Create billing alarm for £5
-Create billing alarm for £25
-Create billing alarm for £100
+### Project 1: Create Three Billing Alarms.
 
-**Questions.**
+### Description: This project involves creating three Azure billing alarms to monitor the subscription cost.
+
+### Service Used: Azure Cost Management + Billing, Azure Monitor.
+
+### Objective:
+
+- Create billing alarm for £5
+- Create billing alarm for £25
+- Create billing alarm for £100
+
+### Questions.
 
 1. When a budget alert is triggered how will one know?
    When a budget alert is triggered, one will be notified by the email address that was provided when creating the alert.
