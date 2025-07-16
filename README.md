@@ -18,7 +18,8 @@
 
 2. What is a Azure Monitor?
 
--Azure Monitor is a solution that's been used for analysing, collecting, and responding to monitored data from the cloud and on-premise environments.
+-Azure Monitor is a service that's been used for analysing, collecting, and responding to monitored data from the cloud and on-premise environments.
+
 -In simple words, it helps to understand how the application is performing and allows one to manually and programmatically respond to the events.
 
 3. What is a Azure Cost Management + billing?
@@ -30,3 +31,4 @@
 ### Referred Resource:
 
 https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets?tabs=psbudget#configure-actual-costs-budget-alerts
+https://learn.microsoft.com/en-us/azure/cost-management-billing/
